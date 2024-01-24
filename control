@@ -1,0 +1,9 @@
+Package: com.pkgfiles.respring
+Name: ReSpring
+Version: 1.0
+Architecture: iphoneos-arm
+Description: ReSpring your way. Anytime, Everywhere.
+Maintainer: pkgFiles
+Author: pkgFiles
+Section: Tweaks
+Depends: ${ORION}, firmware (>= 14.0), com.mrgcgamer.libgcuniversal
