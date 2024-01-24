@@ -10,10 +10,10 @@ Supports all iPhones with iOS >= 14.0. iPad's are offically not supported (That 
 
 ## Preview
 <p align="center">
-  <img src="https://github.com/pkgFiles/ReSpring/assets/100750060/ef524795-a36a-4330-8f6b-31f93d7d49fd">
+  <img src="https://github.com/pkgFiles/ReSpring/assets/100750060/cf9b65df-d5ef-4534-aa6c-68ca391b259c">
 </p>
 <p align="center">
-  <img src="https://github.com/pkgFiles/ReSpring/assets/100750060/0ddd5f03-4f6c-4f18-b5a6-a682e606cacc">
+  <img src="https://github.com/pkgFiles/ReSpring/assets/100750060/c4e6039f-ab76-41ea-a5d5-c3aaed940034">
 </p>
 
 ## License
